@@ -1,0 +1,7 @@
+n=input()
+m=list(map(int,input().split()))
+s=max(m)
+a=min(m)
+p=m.index(s)
+o=m.index(a)
+print(o-p)
