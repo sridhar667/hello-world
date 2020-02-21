@@ -1,0 +1,2 @@
+def dequeue(list,n):
+    
